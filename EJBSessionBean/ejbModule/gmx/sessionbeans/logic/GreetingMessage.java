@@ -19,6 +19,9 @@ public class GreetingMessage implements GreetingInterfaceRemote {
         // TODO Auto-generated constructor stub
     }
 
+    /**
+     * Egy egyszerű String átalakítás.
+     */
 	@Override
 	public String sayHello(String nev) {
 		return "Helló " + nev + " ! Üdvözöllek a Greeting Message Bean-ből !";
