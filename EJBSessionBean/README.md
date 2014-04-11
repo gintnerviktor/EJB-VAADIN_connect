@@ -1,4 +1,1 @@
-EJB-VAADIN_connect
-==================
-
-EJB session bean és Vaadin kapcsolódása WildFly Applikációs szerverben
+Az interface elemek változtatása után a gmx.sessionbeans.interfaces csomagot ki kell exportálni *.jar-ba, hogy a külön álló VAADIN alkalmazáshoz ( EJBSessionClient ) hozzá lehessen adni !

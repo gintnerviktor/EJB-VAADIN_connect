@@ -1,0 +1,1 @@
+Ha az interface állomány megváltozik, akkor a frissen létrehozott *.jar file-t minden esetben be kell másolni a vaadinban lévő WebContent/WEB-INF/lib könyvtárhoz, ellenkező esetben ClassDefNotFound exceptiont fog dobni futásidőben !!!
