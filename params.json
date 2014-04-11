@@ -1,0 +1,1 @@
+{"name":"Ejb-vaadin connect","tagline":"EJB session bean és Vaadin kapcsolódása WildFly Applikációs szerverben","body":"Ez egy igen egyszerű példa arra, hogy egy VAADIN web alkalmazás hogy tud kapcsolódni egy WildFly 8.0 applikációs szerverbe telepített sessionBean -hez.\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
